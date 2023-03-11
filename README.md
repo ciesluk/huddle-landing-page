@@ -21,8 +21,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ciesluk/huddle-landing-page)
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://relaxed-syrniki-0e7750.netlify.app/))
+- Solution URL: [Solution](https://github.com/ciesluk/huddle-landing-page)
+- Live Site URL: [Live]((https://relaxed-syrniki-0e7750.netlify.app/))
 
 ## My process
 
