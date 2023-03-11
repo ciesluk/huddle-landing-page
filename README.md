@@ -22,7 +22,7 @@
 ### Links
 
 - Solution URL: [Solution](https://github.com/ciesluk/huddle-landing-page)
-- Live Site URL: [Live]((https://relaxed-syrniki-0e7750.netlify.app/))
+- Live Site URL: [Live](https://relaxed-syrniki-0e7750.netlify.app/)
 
 ## My process
 
